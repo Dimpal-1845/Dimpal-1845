@@ -21,8 +21,8 @@ I’m a passionate Frontend Developer who loves building **beautiful, user-frien
 
 **Backend & Programming:**  
 `Python` | `Basic Java` | `SQL`
----
 
+---
 
 ## 📫 Connect With Me
 
